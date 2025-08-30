@@ -14,7 +14,7 @@ const Hero = () => {
     <section id="home" className="flex flex-col justify-end min-h-screen">
       <AnimatedHeaderSection
         subTitle={"404 No Bugs Found"}
-        title={`${isMobile ? "WebCHub" : "websitescreatorshub"}`}
+        title={`${isMobile ? "WebCHub" : "websites creators hub"}`}
         text={text}
         textColor={"text-black"}
       />
